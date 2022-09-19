@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "title":"Getir'i keşfedin",
+        "items":[
+            {
+                "title":"Hakkımızda"
+            },
+            {
+                "title":"Kariyer"
+            },
+            {
+                "title":"Teknoloji Kariyerleri"
+            },
+            {
+                "title":"İletişim"
+            },
+            {
+                "title":"COVID-19 Duyuru"
+            },
+            {
+                "title":"Sosyal Sorumluluk Projeleri"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "title":"Getir'i keşfedin",
+        "items":[
+            {
+                "title":"Hakkımızda"
+            },
+            {
+                "title":"Kariyer"
+            },
+            {
+                "title":"Teknoloji Kariyerleri"
+            },
+            {
+                "title":"İletişim"
+            },
+            {
+                "title":"COVID-19 Duyuru"
+            },
+            {
+                "title":"Sosyal Sorumluluk Projeleri"
+            }
+        ]
+    },
+    {
+        "id":3,
+        "title":"Getir'i keşfedin",
+        "items":[
+            {
+                "title":"Hakkımızda"
+            },
+            {
+                "title":"Kariyer"
+            },
+            {
+                "title":"Teknoloji Kariyerleri"
+            },
+            {
+                "title":"İletişim"
+            },
+            {
+                "title":"COVID-19 Duyuru"
+            },
+            {
+                "title":"Sosyal Sorumluluk Projeleri"
+            }
+        ]
+    }
+]
