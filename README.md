@@ -1,1 +1,1 @@
-Prototurk youtube kanalında tayfun erbilen hocanın videolarından yararlanılarak yazılmıştır.
+Prototurk youtube kanalında Tayfun Erbilen hocanın videolarından yararlanılarak yazılmıştır.
